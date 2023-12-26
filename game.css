@@ -1,0 +1,86 @@
+body
+{
+	background: rgb(238, 153, 255);
+}
+
+	.login_div1 , .login_div2
+	{
+font-family: 'Dancing Script', cursive;
+font-family: 'La Belle Aurore', cursive;
+font-family: 'Sevillana', cursive;
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player1_name , #player2_name
+{
+font-family: 'Dancing Script', cursive;
+font-family: 'La Belle Aurore', cursive;
+font-family: 'Sevillana', cursive;
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+font-family: 'Dancing Script', cursive;
+font-family: 'La Belle Aurore', cursive;
+font-family: 'Sevillana', cursive;
+	width: 60%;
+}
+#word_display
+{
+font-family: 'Dancing Script', cursive;
+font-family: 'La Belle Aurore', cursive;
+font-family: 'Sevillana', cursive;
+	letter-spacing: 5px;
+}
+#output
+{
+font-family: 'Dancing Script', cursive;
+font-family: 'La Belle Aurore', cursive;
+font-family: 'Sevillana', cursive;
+background: white;
+border-radius: 10px;
+border-top: 10px solid #AA4465;
+padding: 10px;
+float: none;
+text-align: left;
+}
+
+h1{
+	font-family: 'Dancing Script', cursive;
+	font-family: 'La Belle Aurore', cursive;
+	font-family: 'Sevillana', cursive;
+}
+
+#log{
+	font-family: 'Dancing Script', cursive;
+	font-family: 'La Belle Aurore', cursive;
+	font-family: 'Sevillana', cursive;
+}
+
+h2{
+	font-family: 'Dancing Script', cursive;
+	font-family: 'La Belle Aurore', cursive;
+	font-family: 'Sevillana', cursive;
+}
+
+h3{
+	font-family: 'Dancing Script', cursive;
+	font-family: 'La Belle Aurore', cursive;
+	font-family: 'Sevillana', cursive;
+}
+#myword, #myword1{
+	font-family: 'Dancing Script', cursive;
+	font-family: 'La Belle Aurore', cursive;
+	font-family: 'Sevillana', cursive;
+}
+
+#tosend{
+	font-family: 'Dancing Script', cursive;
+	font-family: 'La Belle Aurore', cursive;
+	font-family: 'Sevillana', cursive;
+}
